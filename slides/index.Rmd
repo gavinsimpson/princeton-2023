@@ -63,7 +63,7 @@ knitr::include_graphics(here("slides/resources/bit.ly_princeton-gams.png"))
 ---
 class: inverse middle center subsection
 
-# GAMs
+# Nonlinearity
 
 ---
 
