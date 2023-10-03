@@ -1,5 +1,5 @@
 ---
-title: "We need to talk about non-linearity"
+title: "We need to talk about nonlinearity"
 author: "Gavin Simpson"
 institute: "Department of Animal & Veterinary Sciences, Aarhus University"
 date: "October 3, 2023"

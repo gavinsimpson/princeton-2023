@@ -1,4 +1,4 @@
-# We need to talk about non-linearity
+# We need to talk about nonlinearity
 
 ## Gavin Simpson (he / him / his)
 
